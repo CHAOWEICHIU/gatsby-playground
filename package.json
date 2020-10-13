@@ -11,6 +11,7 @@
     "gatsby-link": "^2.4.15",
     "gatsby-plugin-react-helmet": "^3.3.14",
     "gatsby-plugin-typescript": "^2.4.21",
+    "gatsby-source-graphql": "^2.7.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0"
